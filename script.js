@@ -1,5 +1,7 @@
 //your JS code here. If required.
-let AccioJob=function(){
+ function AccioJob(){
 	alert("AccioJob")
 }
 AccioJob()
+
+
